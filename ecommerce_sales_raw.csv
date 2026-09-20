@@ -1,0 +1,122 @@
+Order_ID,Order_Date,Customer_Name,Category,Product,Quantity,Sales,Profit,City,Payment_Method
+ORD0001,2026-01-27,Ishaan,Electronics,Keyboard,3,3600,1319.15,Hyderabad,Cash on Delivery
+ORD0002,2026-06-04,Arun,Electronics,Keyboard,1,1200,436.99,Delhi,Credit Card
+ORD0003,2026-01-02,Charan,Home Appliances,Mixer,4,10880.0,3843.19,Pune,Cash on Delivery
+ORD0004,2026-03-28,Bhavya,Office Supplies,Stapler,2,700,133.19,Hyderabad,Cash on Delivery
+ORD0005,2026-01-12,Harini,Electronics,Headphones,3,4590.0,1636.4,Delhi,UPI
+ORD0006,2026-06-08,Farah,Home Appliances,Mixer,5,15200.0,3358.33,Delhi,Credit Card
+ORD0007,2026-03-01,Bhavya,Electronics,Keyboard,2,2280.0,418.49,Mumbai,Debit Card
+ORD0008,2026-02-23,,Home Appliances,Table Fan,3,7200,2384.33,Pune,UPI
+ORD0009,2026-03-11,Ishaan,Furniture,Bookshelf,2,12000,3708.69,Chennai,Debit Card
+ORD0010,2026-01-17,Divya,Electronics,Mouse,1,665.0,215.27,Delhi,Debit Card
+ORD0011,2026-06-14,Harini,Furniture,Bookshelf,4,21600.0,4485.8,Chennai,Debit Card
+ORD0012,2026-05-30,Gopal,Furniture,Chair,5,19125.0,6826.52,Delhi,Cash on Delivery
+ORD0013,2026-01-13,Bhavya,Office Supplies,Pen Set,2,425.0,128.16,Chennai,Credit Card
+ORD0014,2026-04-30,Ishaan,Home Appliances,Table Fan,1,2160.0,709.37,Bengaluru,UPI
+ORD0015,2026-02-10,Harini,Electronics,Headphones,3,5400,1887.62,Hyderabad,Debit Card
+ORD0016,2026-05-10,Jaya,Furniture,Bookshelf,1,5700.0,1242.6,Chennai,Credit Card
+ORD0017,2026-06-03,Farah,Office Supplies,Pen Set,5,1062.5,212.03,Mumbai,UPI
+ORD0018,2026-05-26,Bhavya,Electronics,Headphones,3,5400,2192.93,Hyderabad,Cash on Delivery
+ORD0019,2026-02-12,Eshan,Electronics,Mouse,2,1260.0,242.87,Delhi,Cash on Delivery
+ORD0020,2026-06-21,Farah,Furniture,Bookshelf,2,11400.0,3696.36,Mumbai,Cash on Delivery
+ORD0021,2026-05-31,Ishaan,Electronics,Mouse,2,1400,474.4,Chennai,Credit Card
+ORD0022,2026-01-09,Farah,Electronics,Keyboard,1,1200,484.59,Hyderabad,Credit Card
+ORD0023,2026-05-27,Jaya,Office Supplies,File Organizer,2,850.0,330.01,Mumbai,Credit Card
+ORD0024,2026-04-21,Farah,Home Appliances,Electric Kettle,2,3600,1428.25,Mumbai,Cash on Delivery
+ORD0025,2026-03-28,Bhavya,Home Appliances,Table Fan,1,2400,973.09,,Credit Card
+ORD0026,2026-03-13,Harini,Furniture,Bookshelf,4,24000,7649.96,Chennai,UPI
+ORD0027,2026-05-19,Arun,Home Appliances,Table Fan,1,2400,632.36,Hyderabad,Credit Card
+ORD0028,2026-04-13,Arun,Furniture,Desk,4,30600.0,11282.24,Chennai,Cash on Delivery
+ORD0029,2026-06-28,Ishaan,Electronics,Monitor,3,25650.0,9017.01,Pune,Cash on Delivery
+ORD0030,2026-05-29,Ishaan,Furniture,Chair,3,13500,2531.38,Hyderabad,Debit Card
+ORD0031,2026-05-16,Charan,Electronics,Keyboard,5,5400.0,1616.31,Hyderabad,UPI
+ORD0032,2026-03-02,Gopal,Furniture,Chair,5,22500,5803.85,Hyderabad,Credit Card
+ORD0033,2026-03-22,Eshan,Electronics,Keyboard,4,4080.0,1160.13,Chennai,Debit Card
+ORD0034,2026-03-18,Harini,Furniture,Desk,4,34000,8799.01,Bengaluru,UPI
+ORD0035,2026-01-19,Ishaan,Electronics,Monitor,5,40375.0,7305.33,Chennai,Debit Card
+ORD0036,2026-02-10,Harini,Furniture,Desk,1,8500,2816.16,Kolkata,Debit Card
+ORD0037,2026-01-28,Ishaan,Electronics,Headphones,1,1800,641.75,Chennai,Debit Card
+ORD0038,2026-03-09,Ishaan,Office Supplies,Pen Set,3,750,191.25,Mumbai,Debit Card
+ORD0039,2026-03-27,Charan,Electronics,Keyboard,4,4560.0,1866.95,Pune,Debit Card
+ORD0040,2026-05-24,Arun,Furniture,Bookshelf,4,,5113.05,Hyderabad,UPI
+ORD0041,2026-02-07,Gopal,Furniture,Bookshelf,1,5700.0,1597.13,Chennai,UPI
+ORD0042,2026-03-05,Bhavya,Office Supplies,Stapler,1,332.5,122.89,Bengaluru,Cash on Delivery
+ORD0043,2026-01-07,Charan,Furniture,Chair,2,9000,1876.14,Pune,Debit Card
+ORD0044,2026-06-29,Bhavya,Home Appliances,Table Fan,2,4560.0,1740.97,Mumbai,UPI
+ORD0045,2026-02-28,Divya,Home Appliances,Mixer,2,5760.0,1935.83,Hyderabad,Credit Card
+ORD0046,2026-03-13,Farah,Home Appliances,Electric Kettle,3,5400,1014.91,Pune,Cash on Delivery
+ORD0047,2026-03-09,Arun,Office Supplies,Notebook,1,114.0,42.99,Hyderabad,Cash on Delivery
+ORD0048,2026-01-30,Gopal,Office Supplies,Stapler,4,1190.0,218.7,Delhi,Credit Card
+ORD0049,2026-05-18,Divya,Office Supplies,Notebook,4,480,141.71,Bengaluru,Cash on Delivery
+ORD0050,2026-02-01,Eshan,Electronics,Headphones,5,8550.0,2229.73,Delhi,Debit Card
+ORD0051,2026-02-19,Gopal,Home Appliances,Electric Kettle,4,6840.0,1962.68,Pune,Cash on Delivery
+ORD0052,2026-01-01,Eshan,Furniture,Bookshelf,5,28500.0,9192.45,Bengaluru,Credit Card
+ORD0053,2026-04-24,Divya,Home Appliances,Table Fan,5,11400.0,3515.79,Delhi,Cash on Delivery
+ORD0054,2026-06-12,Jaya,Furniture,Bookshelf,1,5700.0,1688.86,Bengaluru,UPI
+ORD0055,2026-02-07,Arun,Furniture,Bookshelf,3,18000,4075.65,Hyderabad,Credit Card
+ORD0056,2026-06-11,Jaya,Home Appliances,Table Fan,,2160.0,692.35,Chennai,Cash on Delivery
+ORD0057,2026-01-02,Bhavya,Home Appliances,Electric Kettle,2,3600,945.17,Kolkata,Cash on Delivery
+ORD0058,2026-03-05,Bhavya,Furniture,Chair,5,20250.0,8260.94,Mumbai,Credit Card
+ORD0059,2026-04-24,Jaya,Home Appliances,Table Fan,5,10200.0,2826.33,Kolkata,Cash on Delivery
+ORD0060,2026-03-05,Eshan,Home Appliances,Mixer,4,11520.0,4121.79,Kolkata,Cash on Delivery
+ORD0061,2026-03-02,Eshan,Furniture,Desk,4,34000,8457.47,Bengaluru,Debit Card
+ORD0062,2026-02-09,Divya,Electronics,Mouse,2,1400,459.3,Hyderabad,Cash on Delivery
+ORD0063,2026-02-22,Gopal,Home Appliances,Electric Kettle,5,8100.0,2593.73,Mumbai,UPI
+ORD0064,2026-04-10,Gopal,Home Appliances,Electric Kettle,1,1710.0,595.65,Delhi,Credit Card
+ORD0065,2026-04-10,Farah,Home Appliances,Mixer,3,8640.0,2621.77,Pune,Cash on Delivery
+ORD0066,2026-04-11,Jaya,Furniture,Desk,2,14450.0,4216.66,Delhi,UPI
+ORD0067,2026-03-08,Gopal,Electronics,Monitor,2,17100.0,6436.18,Bengaluru,Credit Card
+ORD0068,2026-04-18,Eshan,Home Appliances,Electric Kettle,3,4860.0,1716.64,Kolkata,UPI
+ORD0069,2026-03-31,Divya,Home Appliances,Mixer,5,16000,2880.35,Pune,UPI
+ORD0070,2026-06-09,Charan,Electronics,Keyboard,2,2400,524.6,Chennai,Credit Card
+ORD0071,2026-04-30,Eshan,Home Appliances,Table Fan,1,2040.0,392.78,Kolkata,Debit Card
+ORD0072,2026-02-11,Eshan,Furniture,Bookshelf,5,30000,6999.9,Hyderabad,UPI
+ORD0073,2026-06-26,Divya,Office Supplies,File Organizer,4,2000,803.52,Hyderabad,Debit Card
+ORD0074,2026-04-05,Bhavya,Electronics,Keyboard,3,3060.0,970.6,Delhi,Debit Card
+ORD0075,2026-04-03,Harini,Electronics,Monitor,4,38000,12006.27,Pune,Credit Card
+ORD0076,2026-05-18,Harini,Home Appliances,Mixer,5,15200.0,4137.15,Mumbai,Cash on Delivery
+ORD0077,2026-04-26,Divya,Office Supplies,Stapler,2,700,247.14,Kolkata,Cash on Delivery
+ORD0078,2026-02-16,Harini,Home Appliances,Electric Kettle,1,1620.0,349.55,Chennai,Debit Card
+ORD0079,2026-03-12,Ishaan,Office Supplies,Stapler,3,892.5,224.66,Hyderabad,Credit Card
+ORD0080,2026-03-03,Harini,Electronics,Mouse,4,2520.0,722.63,Pune,Cash on Delivery
+ORD0081,2026-06-27,Divya,Home Appliances,Mixer,1,3040.0,1115.12,Bengaluru,Debit Card
+ORD0082,2026-05-21,Farah,Home Appliances,Table Fan,5,11400.0,3623.82,Bengaluru,Cash on Delivery
+ORD0083,2026-02-19,Farah,Office Supplies,Stapler,3,1050,410.59,Hyderabad,Credit Card
+ORD0084,2026-05-15,Jaya,Furniture,Chair,4,17100.0,4208.3,Bengaluru,UPI
+ORD0085,2026-01-04,Ishaan,Furniture,Desk,2,16150.0,6087.48,Chennai,Debit Card
+ORD0086,2026-02-02,Harini,Electronics,Keyboard,5,5700.0,1439.93,Hyderabad,UPI
+ORD0087,2026-01-14,Eshan,Office Supplies,File Organizer,4,1800.0,608.82,Kolkata,Cash on Delivery
+ORD0088,2026-06-11,Arun,Electronics,Keyboard,4,4320.0,1737.59,Chennai,Credit Card
+ORD0089,2026-04-17,Jaya,Office Supplies,Notebook,2,240,68.65,Delhi,Credit Card
+ORD0090,2026-04-20,Eshan,Home Appliances,Electric Kettle,4,6840.0,1460.75,Delhi,UPI
+ORD0091,2026-02-10,Divya,Electronics,Mouse,2,1330.0,347.79,Chennai,UPI
+ORD0092,2026-05-01,Eshan,Furniture,Chair,4,16200.0,4123.73,Hyderabad,Credit Card
+ORD0093,2026-03-09,Jaya,Office Supplies,Stapler,4,1400,357.04,Pune,Credit Card
+ORD0094,2026-03-10,Charan,Home Appliances,Mixer,5,16000,4233.08,Hyderabad,UPI
+ORD0095,2026-04-23,Bhavya,Furniture,Desk,5,36125.0,7185.76,Mumbai,Debit Card
+ORD0096,2026-01-21,Jaya,Home Appliances,Electric Kettle,5,7650.0,2306.39,Hyderabad,Cash on Delivery
+ORD0097,2026-06-22,Jaya,Office Supplies,Stapler,1,350,127.77,Delhi,UPI
+ORD0098,2026-04-24,Eshan,Office Supplies,Notebook,2,216.0,63.82,Chennai,Cash on Delivery
+ORD0099,2026-03-24,Bhavya,Home Appliances,Mixer,4,12160.0,3915.48,Kolkata,Credit Card
+ORD0100,2026-04-13,Ishaan,Office Supplies,File Organizer,4,1900.0,495.86,Hyderabad,Cash on Delivery
+ORD0101,2026-04-14,Ishaan,Electronics,Headphones,3,5130.0,2011.88,Kolkata,UPI
+ORD0102,2026-06-09,Harini,Home Appliances,Electric Kettle,1,1800,532.03,Pune,Cash on Delivery
+ORD0103,2026-03-15,Harini,Electronics,Mouse,3,1785.0,693.57,Pune,Cash on Delivery
+ORD0104,2026-03-21,Ishaan,Electronics,Keyboard,5,6000,1497.91,Hyderabad,Cash on Delivery
+ORD0105,2026-06-15,Charan,Electronics,Mouse,1,630.0,121.4,Mumbai,Debit Card
+ORD0106,2026-05-22,Charan,Office Supplies,File Organizer,4,1800.0,650.71,Mumbai,Credit Card
+ORD0107,2026-05-10,Eshan,Furniture,Chair,3,12150.0,4111.92,Kolkata,UPI
+ORD0108,2026-05-06,Charan,Office Supplies,Stapler,5,1487.5,268.14,Mumbai,Cash on Delivery
+ORD0109,2026-03-24,Divya,Office Supplies,Stapler,5,1487.5,490.09,Pune,Credit Card
+ORD0110,2026-05-02,Gopal,Home Appliances,Mixer,4,12800,4398.56,Mumbai,Credit Card
+ORD0111,2026-03-26,Bhavya,Home Appliances,Mixer,2,5440.0,1024.43,Kolkata,Cash on Delivery
+ORD0112,2026-06-17,Charan,Electronics,Monitor,1,9500,3055.25,Hyderabad,Cash on Delivery
+ORD0113,2026-03-26,Ishaan,Office Supplies,Stapler,5,1575.0,415.86,Mumbai,Debit Card
+ORD0114,2026-06-11,Eshan,Home Appliances,Table Fan,1,2040.0,823.3,Chennai,UPI
+ORD0115,2026-03-18,Arun,Home Appliances,Mixer,1,2880.0,1094.61,Hyderabad,Debit Card
+ORD0116,2026-03-04,Ishaan,Electronics,Headphones,3,5130.0,1624.34,Mumbai,Credit Card
+ORD0117,2026-06-08,Divya,Furniture,Chair,1,3825.0,807.07,Mumbai,Credit Card
+ORD0118,2026-01-03,Harini,Furniture,Desk,3,22950.0,8232.66,Bengaluru,Credit Card
+ORD0119,2026-04-19,Eshan,Electronics,Monitor,3,24225.0,8435.22,Mumbai,Debit Card
+ORD0120,2026-05-27,Farah,Furniture,Desk,4,34000,12344.4,Delhi,Debit Card
+ORD0011,2026-06-14,Harini,Furniture,Bookshelf,4,21600.0,4485.8,Chennai,Debit Card
